@@ -1,0 +1,1 @@
+{site_name: charge-math, site_description: "Small estimates for portable charging: power bank charges, airline limits, USB-C watts", nav: [{Home: index.md}, {API: api.md}, {Background: background.md}], theme: {name: readthedocs}}
